@@ -2,9 +2,8 @@
   "name": "css-ast-diff",
   "version": "1.0.6",
   "description": "Diffs CSS files by parsing into AST, sorting, and finding functional differences",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -47,5 +46,9 @@
     "svn": "^0.2.0",
     "svn-interface": "^0.5.0",
     "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
   }
 }
