@@ -3,7 +3,7 @@
   "version": "1.0.6",
   "description": "Diffs CSS files by parsing into AST, sorting, and finding functional differences",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --harmony"
   },
   "repository": {
     "type": "git",
