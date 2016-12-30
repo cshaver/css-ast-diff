@@ -38,6 +38,7 @@
     "css": "^2.2.1",
     "debug": "^2.2.0",
     "diff": "^2.2.1",
+    "es6-object-assign": "^1.0.3",
     "fs": "0.0.2",
     "node-diff": "^0.2.0",
     "nodegit": "^0.11.8",
@@ -48,7 +49,7 @@
     "util": "^0.10.3"
   },
   "devDependencies": {
-    "chai": "*",
-    "mocha": "*"
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
   }
 }
